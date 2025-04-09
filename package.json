@@ -1,7 +1,7 @@
 {
   "name": "devportfolio-template",
   "version": "1.2.2",
-  "description": "",
+  "description": "🎉 **[Interested in learning all about full-stack Chrome Extension development? My latest course, Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js, is now live!](https://fullstackextensions.com/?ref=github)** 🎉",
   "main": "js/scripts.js",
   "scripts": {
     "watch": "gulp watch"
@@ -27,5 +27,13 @@
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2",
     "gulp-wait": "0.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyyueh/portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cyyueh/portfolio/issues"
+  },
+  "homepage": "https://github.com/cyyueh/portfolio#readme"
 }
