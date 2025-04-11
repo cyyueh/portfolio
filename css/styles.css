@@ -81,3 +81,13 @@
     }
   }
   
+  .profile-photo {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #e9dcc9;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin: 0 auto 20px auto;
+}
+
